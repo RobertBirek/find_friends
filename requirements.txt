@@ -1,8 +1,6 @@
 openai
 python-dotenv
 streamlit
-json
 pycaret
 plotly
-os
 pandas
