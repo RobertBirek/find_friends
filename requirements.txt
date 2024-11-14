@@ -1,0 +1,9 @@
+openai
+python-dotenv
+streamlit
+pandas
+json
+pycaret.clustering
+plotly
+os
+#pathlib
